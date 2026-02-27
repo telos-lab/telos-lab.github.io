@@ -1,6 +1,8 @@
 ---
 ---
 
+$wrap: 800px;
+
 .card {
   display: inline-flex;
   justify-content: stretch;
@@ -14,6 +16,16 @@
   overflow: hidden;
   box-shadow: var(--shadow);
   vertical-align: top;
+}
+
+@media (max-width: $wrap) {
+  .card {
+    width: 100%;
+    max-width: 100%;
+  }
+  .card-text {
+    width: 100%;
+  }
 }
 
 .card[data-style="small"] {

@@ -77,14 +77,6 @@ $onecolinner: 500px;
   text-decoration: none;
 }
 
-@media (max-width: $onecol) {
-  .portrait-card {
-    width: 100%;
-    max-width: 100%;
-    display: flex;
-  }
-}
-
 //@media (max-width: $onecolinner) {
 //  .portrait-card {
 //    width: 100%;
@@ -166,5 +158,46 @@ $onecolinner: 500px;
   .portrait-affiliation,
   .portrait-content{
     display: none;
+  }
+}
+
+@media (max-width: $onecol) {
+  .portrait-card {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+  }
+
+  .portrait-slim {
+    display: flex;
+    //justify-content: stretch;
+    align-items: start;
+    //flex-direction: column;
+    width: 100%;
+    max-width: 100%;
+    //margin: 0;
+    //background: var(--background);
+    //border-radius: var(--rounded);
+    //overflow: hidden;
+    //box-shadow: var(--shadow);
+    vertical-align: top;
+  }
+
+  .portrait {
+    flex-direction: column;
+  }
+
+  .portrait-group {
+    width: 100%;
+  }
+
+  .portrait-image {
+    width: 100%;
+    max-width: 100px;
+    margin-left: 20px;
+  }
+
+  p {
+    text-align: left;
   }
 }

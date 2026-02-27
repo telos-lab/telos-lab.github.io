@@ -77,3 +77,4 @@ exclude:
   - LICENSE.md
   - CITATION.cff
   - images_raw
+  - local
