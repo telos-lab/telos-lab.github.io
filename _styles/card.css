@@ -13,6 +13,15 @@
   vertical-align: top;
 }
 
+@media (max-width: 800px) {
+  .card {
+    width: 100%;
+    max-width: 100%;
+  }
+  .card-text {
+    width: 100%;
+  }
+}
 .card[data-style=small] {
   width: 250px;
 }
