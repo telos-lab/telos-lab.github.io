@@ -1,0 +1,123 @@
+---
+---
+
+$thumb-size: 160px;
+$wrap: 800px;
+
+.citation-container {
+  container-type: inline-size;
+}
+
+.citation {
+  display: flex;
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: var(--rounded);
+  background: var(--background);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.citation-image {
+  display: flex;
+  position: relative;
+  width: $thumb-size;
+  flex-shrink: 0;
+  // box-shadow: var(--shadow);
+  margin-right: 1rem;
+  margin-left: 0.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  align-items: center;
+}
+
+.citation-image img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  padding: 0;
+  margin: 0;
+  //padding: 0.5rem;
+  //padding-left: 0;
+  //padding-left: 0.5rem;
+  //padding-right: 1rem;
+  //margin-right: 1rem;
+  border-radius: 2rem;
+}
+
+.citation-text {
+  position: relative;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0;
+  max-width: 100%;
+  padding-left: 0.5rem;
+  height: min-content;
+  //padding-left: 0.5rem;
+  text-align: left;
+  overflow-wrap: break-word;
+  z-index: 0;
+}
+
+.citation-title,
+.citation-authors,
+.citation-details,
+.citation-description {
+  width: 100%;
+}
+
+.citation-title {
+  font-weight: var(--semi-bold);
+}
+
+.citation > .icon {
+  position: relative;
+  top: 20px;
+  right: 20px;
+  color: var(--light-gray);
+  opacity: 0.5;
+  font-size: 30px;
+  z-index: 1;
+}
+
+.citation-publisher {
+  //text-transform: capitalize;
+}
+
+.citation-description {
+  color: var(--gray);
+}
+
+.citation-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.citation-buttons .button {
+  margin: 0;
+}
+
+.citation-text > .tags {
+  display: inline-flex;
+  justify-content: flex-start;
+  margin: 0;
+}
+
+@container (max-width: #{$wrap}) {
+  .citation {
+    flex-direction: column;
+  }
+
+  .citation-image {
+    width: unset;
+    height: $thumb-size;
+  }
+
+  .citation-image img {
+    object-fit: scale-down;
+  }
+
+}

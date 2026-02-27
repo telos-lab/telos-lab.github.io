@@ -1,0 +1,209 @@
+# PREPRINT
+# - id: doi:
+#   type: preprint
+- id: doi:10.48550/arXiv.2512.05679
+  type: preprint
+  description: "We introduce Network Pluralism as a conceptual framework to leverage multi-perspectivity in network science and demonstrate its utility through a case study on the German legal system."
+  image: /images/thumbnails/Puender-Coupette_Network-Pluralism_Thumbnail.png
+  tags:
+    - law
+    - graphs
+  group: featured
+- id: doi:10.48550/arXiv.2508.15929
+  title: Low-Dimensional Embeddings of High-Dimensional Data
+  type: preprint
+  description: "We critically review current approaches to dimensionality reduction and discuss best practices and open challenges in the field."
+  tags:
+    - ai/ml
+    - hci
+# CONFERENCE PROCEEDINGS
+# - id: doi:
+#   type: conference
+- id: doi:10.48550/arXiv.2508.09046
+  date: '2026-01-01'
+  publisher: International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+  type: conference
+  tags:
+    - tcs
+  description: "We show that any preference profile with *n* voters and *m* alternatives can be embedded into *d*-dimensional Euclidean space for *d* ≥ min{*n*,*m*-1} under all *p*-norms and establish that any pair of rankings can be embedded into R² under arbitrary norms, significantly expanding the reach of spatial preference models."
+- id: doi:10.48550/arXiv.2509.15836
+  publisher: ACM CHI Conference on Human Factors in Computing (CHI)
+  date: '2026-01-01'
+  type: conference
+  tags:
+    - hci
+  description: "We introduce the concept of _relational dissonance_ to describe the divergence between individuals' articulated accounts and enacted relationships with anthropomorphic conversational agents."
+- id: doi:10.48550/arXiv.2506.07574
+  type: conference
+  publisher: International Symposium on Distributed Computing (DISC)
+  description: "We show that there is no distributed quantum advantage for any linear program and give a new separation between quantum algorithms and classical algorithms."
+  tags:
+    - tcs
+    - graphs
+- id: doi:10.48550/arXiv.2502.02379
+  publisher: International Conference on Machine Learning (ICML)
+  image: /images/thumbnails/Coupette-et-al_Rings_Thumbnail.png
+  description: "We introduce RINGS, a principled framework to assess the quality of graph-learning datasets by measuring differences between the original dataset and its perturbed representations."
+  repo: aidos-lab/rings
+  type: conference
+  tags:
+    - ai/ml
+    - graphs
+  group: featured
+- id: doi:10.48550/arXiv.2407.14536
+  type: conference
+  publisher: International Symposium on Distributed Computing (DISC)
+  date: '2025-01-01'
+  tags:
+    - tcs
+    - graphs
+  description: "We present the shell-decomposition algorithm, a model-agnostic meta-algorithm that efficiently computes a (2+Ɛ)-approximation to Constrained Forest Problems for a broad class of forest functions describing network design problems with edge subsets as solutions."
+- id: doi:10.48550/arXiv.2402.01514
+  publisher: International Conference on Machine Learning (ICML)
+  type: conference
+  tags:
+    - ai/ml
+  image: /images/thumbnails/presto.svg
+  description: "We introduce Presto, a topological framework to explore and exploit representational variability in latent-space machine-learning models."
+- id: doi:10.1145/3580305.3599489
+  type: conference
+  publisher: "ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD)"
+  description: "We introduce Gamine, a fast greedy algorithm for reducing the exposure to harm in recommendation graphs via edge rewiring, based on the theory of absorbing random walks."
+  tags:
+    - ai/ml
+    - graphs
+- id: doi:10.48550/arXiv.2210.12048
+  publisher: International Conference on Learning Representations (ICLR)
+  date: "2023-01-01"
+  tags:
+    - ai/ml
+    - graphs
+  type: conference
+  description: "We develop Orchid, a flexible framework generalizing Ollivier-Ricci curvature to hypergraphs, prove that the resulting curvatures have favorable theoretical properties, and demonstrate that they are both scalable and useful to perform a variety of hypergraph tasks in practice."
+- id: doi:10.1609/aaai.v36i4.20312
+  publisher: "The AAAI Conference on Artificial Intelligence (AAAI)"
+  type: conference
+  tags:
+    - ai/ml
+    - graphs
+  description: "Given a set of graphs and a partition of these graphs into groups, we introduce Gragra (Graph group analysis) to discover what graphs in one group have in common, how they systematically differ from graphs in other groups, and how multiple groups of graphs are related."
+- id: doi:10.1109/ICDMW53433.2021.00083
+  publisher: International Conference on Data Mining Workshops (ICDMW)
+  type: conference
+  tags:
+    - ai/ml
+    - law
+  description: "We introduce the duplicated phrase detection problem for legal texts and propose the Dupex (Duplicated phrase extractor) algorithm to solve it, leveraging the Minimum Description Length principle to identify a set of duplicated phrases that together best compress the input text."
+- id: doi:10.1145/3447548.3467257
+  title: "Graph Similarity Description: How Are These Graphs Similar?"
+  publisher: "ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD)"
+  type: conference
+  description: "We treat graph similarity assessment as a description problem, rather than as a measurement problem. Having formalized this problem as a model selection task using the Minimum Description Length principle, we propose Momo (Model of models), which solves the problem by breaking it into two parts and introducing efficient algorithms for each."
+  tags:
+    - ai/ml
+    - graphs
+- id: doi:10.1137/1.9781611976496.21
+  type: conference
+  description: "We give a simple and (in the extended version) fully self-contained proof of the KMW lower bound, proving a hardness result for several fundamental graph problems in the LOCAL model of distributed computing."
+  tags:
+    - tcs
+    - graphs
+# JOURNAL ARTICLES
+# - id: doi:
+#   type: journal
+- id: doi:10.21105/joss.06930
+  type: journal
+  description: "We introduce *pymnet*, a Python package providing essential data structures and computational tools for multilayer-network analysis and visualization."
+  tags:
+    - graphs
+- id: doi:10.1098/rsta.2023.0141
+  title: Legal Hypergraphs
+  type: journal
+  image: /images/thumbnails/legal-hypergraphs.png
+  tags:
+    - law
+    - graphs
+  description: "We introduce temporal hypergraphs as representations of legal network data, demonstrating their utility in case studies on legal citation networks and legal collaboration networks."
+- id: doi:10.48550/arXiv.2206.08225
+  publisher: Digital Scholarship in the Humanities
+  type: journal
+  date: "2024-01-01"
+  tags:
+    - ai/ml
+    - graphs
+    - meta
+  image: /images/thumbnails/hyperbard.svg
+  description: "Raw data stem from all of Shakespeare's plays / We model them as graphs in many ways / And demonstrate representations matter."
+- id: doi:10.48550/arXiv.2205.01071
+  publisher: MIT Computational Law Report
+  type: journal
+  tags:
+    - law
+    - meta
+  description: "Building on the scientific literature regarding reproducible research and peer review, we introduce seven foundational principles for creating a culture of constructive criticism in the transdisciplinary field of computational legal studies."
+- id: doi:10.1007/s10506-022-09315-w
+  type: journal
+  title: "Law Smells: Defining and Detecting Problematic Patterns in Legal Drafting"
+  date: "2023-01-01"
+  tags:
+    - law
+  description: "Building on the computer science concept of code smells, we initiate the systematic study of law smells (i.e., patterns in legal texts that pose threats to the comprehensibility and maintainability of the law), introduce a comprehensive law smell detection toolkit, and demonstrate its utility on twenty-two years of legislation from the United States Code."
+- id: doi:10.1628/rabelsz-2022-0082
+  type: journal
+  description: "Theoretically grounded in systems theory and complexity science, we propose *structural comparative law* as a data-driven approach to explore the similarities and differences between the structures of legal systems."
+  tags:
+    - law
+    - graphs
+- id: doi:10.3389/fphy.2021.658463
+  type: journal
+  description: "We present a comprehensive framework for analyzing legal documents as multi-dimensional, dynamic document networks and demonstrate its utility by applying it to an original dataset of statutes and regulations from two different countries, the United States and Germany, spanning more than twenty years (1998–2019)."
+  tags:
+    - law
+    - graphs
+- id: doi:10.1038/s41598-020-73623-x
+  title: "Complex Societies and the Growth of the Law"
+  type: journal
+  description: "We examine 25 years of statutory legislation in the United States and Germany through the lens of network science, finding that the main driver behind the growth of the law in both jurisdictions is the expansion of the welfare state, backed by an expansion of the tax state."
+  tags:
+    - law
+    - graphs
+- id: doi:10.1515/9783110632323-005
+  title: "Das Wertpapierhandelsgesetz (1994–2019): Eine quantitative juristische Studie"
+  type: journal
+  description: "A legal data science project investigating the evolution of Germany's Securities Trading Act over the first 25 years of its lifetime."
+  tags:
+    - law
+- id: doi:10.1628/jz-2018-0020
+  title: "Quantitative Rechtswissenschaft: Sammlung, Analyse und Kommunikation juristischer Daten"
+  type: journal
+  description: 'We explain what legal data analysis is and discuss how German legal research could profit from it.'
+  tags:
+    - law
+# MONOGRAPHS
+- id: doi:10.22028/D291-40840
+  type: monograph
+  authors: 
+  - Corinna Coupette
+  title: 'Beyond Flatland: Exploring Graphs in Many Dimensions'
+  description: "Corinna's computer-science dissertation which, based on my KDD 2021, AAAI 2022, DSH 2023, ICLR 2023, and KDD 2023 publications, explores graphs in five dimensions: descriptivity, multiplicity, complexity, expressivity, and responsibility."
+  tags:
+    - graphs
+- id: doi:10.1628/978-3-16-157012-4
+  title: 'Juristische Netzwerkforschung: Modellierung, Quantifizierung und Visualisierung relationaler Daten im Recht'
+  type: monograph
+  description: "Corinna's legal dissertation. I introduce network science to the German legal discourse and explore what legal network science could mean. This is how I got into graphs."
+  tags:
+    - law
+    - graphs
+# REPORTS
+- id: doi:10.1109/JCDL57899.2023.00077
+  publisher: ACM/IEEE Joint Conference on Digital Libraries (JCDL) 
+  type: report
+  description: 'We summarize the learnings from a panel discussion on the contemporary challenges of scientific peer review.'
+  tags:
+    - meta
+- id: doi:arXiv.2306.00586
+  type: report
+  description: 'We present the results of a survey distributed to participants of the first "Learning on Graphs" conference.'
+  tags:
+    - meta

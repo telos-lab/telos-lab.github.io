@@ -1,0 +1,20 @@
+---
+---
+
+.icon {
+  font-size: 0.75em;
+}
+
+.icon-pad-right {
+  padding-right: 1.5rem;
+}
+
+span.icon {
+  line-height: 1;
+}
+
+span.icon > svg {
+  position: relative;
+  top: 0.1em;
+  height: 1em;
+}
