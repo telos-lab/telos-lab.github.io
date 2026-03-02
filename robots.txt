@@ -1,1 +1,1 @@
-Sitemap: https://telos-lab.github.io/sitemap.xml
+Sitemap: https://www.telos-lab.io/sitemap.xml
