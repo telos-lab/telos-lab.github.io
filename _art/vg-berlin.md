@@ -38,7 +38,7 @@ Die Bilder dieser Ausstellung wurden vom _Telos Lab_ für das VG Berlin erstellt
 Das _Telos Lab_ ist eine Forschungsgruppe, die das Recht aus der Perspektive der Informatik untersucht. 
 Sie wird von Professor Dr. Dr. Corinna Coupette geleitet.
 Die Darstellungsformen, die der Ausstellung zugrunde liegen, sind aus der wissenschaftlichen Arbeit der Gruppe hervorgegangen.
-Weitere Informationen über das _Telos Lab_ finden sich auf [hier](/) auf der Homepage des Labs.
+Weitere Informationen über das _Telos Lab_ finden sich [hier](/) auf der Homepage des Labs.
 
 
 ## Einzelne Kunstwerke

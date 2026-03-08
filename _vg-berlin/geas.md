@@ -5,7 +5,7 @@ link: vg-berlin/geas
 image: images/art/geas.webp
 ---
 
-# Asylgesetz 2025
+# Gemeinsames Europäisches Asylsystem
 
 {% capture text %}
 Gemeinsames Europäisches Asylsystem (EU-Recht), Stand 11. Dezember 2025. Quelle der Gesetzestexte: EUR-Lex.
