@@ -8,8 +8,8 @@ image: images/art/aufenthg_aufenthv.webp
 # Aufenthaltsgesetz und Aufenthaltsverordnung
 
 {% capture text %}
-Aufenthaltsgesetz (oben) und Aufenthaltsverordnung (unten und um 180 Grad gedreht), Stand 1. Juni 2025.
-Quelle der Gesetzestexte: Gesetze im Internet.
+Aufenthaltsgesetz (oben) und Aufenthaltsverordnung (unten und um 180 Grad gedreht), Stand 1. Juni 2025. 
+Quelle der Gesetzestexte: Gesetze im Internet. [Ausstellungsbeschreibung](/art/vg-berlin)
 {% endcapture %}
 
 {% include figure.html image=page.image caption=text %}

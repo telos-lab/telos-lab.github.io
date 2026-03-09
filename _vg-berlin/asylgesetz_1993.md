@@ -8,8 +8,7 @@ image: images/art/asylg_1993.webp
 # Asylgesetz 1993
 
 {% capture text %}
-Asylgesetz (Nachfolger des Asylverfahrensgesetzes), Stand 1. Juli 1993. Quelle des Gesetzestextes: Bundesgesetzblatt.
+Asylgesetz (Nachfolger des Asylverfahrensgesetzes), Stand 1. Juli 1993. Quelle des Gesetzestextes: Bundesgesetzblatt. [Ausstellungsbeschreibung](/art/vg-berlin)
 {% endcapture %}
 
 {% include figure.html image=page.image caption=text %}
-

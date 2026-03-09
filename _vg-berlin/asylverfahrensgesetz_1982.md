@@ -8,7 +8,7 @@ image: images/art/asylvfg_1982.webp
 # Asylverfahrensgesetz 1982
 
 {% capture text %}
-Asylverfahrensgesetz, Stand 16. Juli 1982. Quelle des Gesetzestextes: Bundesgesetzblatt.
+Asylverfahrensgesetz, Stand 16. Juli 1982. Quelle des Gesetzestextes: Bundesgesetzblatt. [Ausstellungsbeschreibung](/art/vg-berlin)
 {% endcapture %}
 
 {% include figure.html image=page.image caption=text %}
