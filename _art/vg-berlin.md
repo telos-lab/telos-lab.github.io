@@ -49,6 +49,8 @@ Weitere Informationen über das _Telos Lab_ finden sich [hier](/) auf der Homepa
 
 {% include list.html data="vg-berlin" component="card" filter="title == 'Aufenthaltsgesetz und -verordnung'"%}
 
-{% include list.html data="vg-berlin" component="card" filter="title != 'Grundgesetz' && title != 'Gem. Europäisches Asylsystem' && title != 'Aufenthaltsgesetz und -verordnung' && title != 'Asylgesetz 2025'" %}
+{% include list.html data="vg-berlin" component="card" filter="title == 'Asylverfahrensgesetz 1982'"%}
+
+{% include list.html data="vg-berlin" component="card" filter="title == 'Asylgesetz 1993'"%}
 
 {% include list.html data="vg-berlin" component="card" filter="title == 'Asylgesetz 2025'"%}
