@@ -2,7 +2,7 @@
 title: The Art of Law
 subtitle: Artistic visualizations of legal data
 link: art/art-of-law
-image: images/flower_bverfge_example_.webp
+image: images/flower_bverfge_example.webp
 hide: false
 description: "We organically grow a collection of visualization types designed to communicate the intricacy and complexity of legal phenomena."
 ---
