@@ -4,7 +4,7 @@ subtitle: Exhibition at the Administrative Court Berlin
 link: art/vg-berlin
 image: images/art/asylg_2025.webp
 hide: false
-description: "We bring data art made from German legislation into the hallways of Berlin's administrative court. (Exhibition description in German.)"
+description: "We bring data art made from German and EU legislation into the hallways of Berlin's administrative court. (Description in German.)"
 ---
 
 # {% include icon.html icon="fa-solid fa-balance-scale fa-fw" %}Verwaltungsgericht Berlin
