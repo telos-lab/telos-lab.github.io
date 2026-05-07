@@ -2,7 +2,9 @@
 # - id: doi:
 #   type: preprint
 - id: doi:10.48550/arXiv.2512.05679
-  type: preprint
+  type: journal
+  date: '2026-01-01'
+  publisher: European Physical Journal B
   description: "We introduce Network Pluralism as a conceptual framework to leverage multi-perspectivity in network science and demonstrate its utility through a case study on the German legal system."
   image: /images/thumbnails/Puender-Coupette_Network-Pluralism_Thumbnail.png
   tags:
