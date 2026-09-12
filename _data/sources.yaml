@@ -1,16 +1,13 @@
 # PREPRINT
 # - id: doi:
 #   type: preprint
-- id: doi:10.48550/arXiv.2512.05679
-  type: journal
-  date: '2026-01-01'
-  publisher: European Physical Journal B
-  description: "We introduce Network Pluralism as a conceptual framework to leverage multi-perspectivity in network science and demonstrate its utility through a case study on the German legal system."
-  image: /images/thumbnails/Puender-Coupette_Network-Pluralism_Thumbnail.png
+- id: doi:10.48550/arXiv.2608.07705
+  type: preprint
+  title: "Protecting Patient Privacy in Clinical Foundation Models: Technical and Legal Perspectives"
   tags:
     - law
-    - graphs
-  group: featured
+    - ai/ml
+  description: "We propose a two-dimensional framework to assess privacy risks in clinical foundation models."
 - id: doi:10.48550/arXiv.2508.15929
   title: Low-Dimensional Embeddings of High-Dimensional Data
   type: preprint
@@ -113,6 +110,17 @@
 # JOURNAL ARTICLES
 # - id: doi:
 #   type: journal
+- id: doi:10.1140/epjb/s10051-026-01178-3
+  type: journal
+  date: '2026-01-01'
+  publisher: European Physical Journal B
+  title: "The Power of Network Pluralism: Multi-Perspective Modeling of Heterogeneous Legal Document Networks"
+  description: "We introduce Network Pluralism as a conceptual framework to leverage multi-perspectivity in network science and demonstrate its utility through a case study on the German legal system."
+  image: /images/thumbnails/Puender-Coupette_Network-Pluralism_Thumbnail.png
+  tags:
+    - law
+    - graphs
+  group: featured
 - id: doi:10.21105/joss.06930
   type: journal
   description: "We introduce *pymnet*, a Python package providing essential data structures and computational tools for multilayer-network analysis and visualization."

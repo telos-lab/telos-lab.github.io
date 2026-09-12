@@ -2,10 +2,10 @@
 name: Emrecan Gulay
 role: postdoc
 affiliation: Aalto U, School of Business
-group: affiliate
+group: alum
 description: Co-Supervised Postdoc
 discipline: Art, Design
-period: 2025–
+period: 2025–2026
 links: 
   home-page: https://emrecangulay.wixsite.com/mysite
   google-scholar: F1DVHl8AAAAJ

@@ -1,23 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.48550/arXiv.2512.05679
-  title: 'The Power of Network Pluralism: Multi-Perspective Modeling of Heterogeneous
-    Legal Document Networks'
+- id: doi:10.48550/arXiv.2608.07705
+  title: 'Protecting Patient Privacy in Clinical Foundation Models: Technical and
+    Legal Perspectives'
   authors:
-  - "Titus P\xFCnder"
+  - Sana Tonekaboni
+  - Lena Stempfle
+  - Sasha Ronaghi
   - Corinna Coupette
-  publisher: European Physical Journal B
+  - I. Glenn Cohen
+  - Emily Alsentzer
+  - Marzyeh Ghassemi
+  publisher: arXiv
   date: '2026-01-01'
-  link: https://doi.org/hbm2b8
-  type: journal
-  description: We introduce Network Pluralism as a conceptual framework to leverage
-    multi-perspectivity in network science and demonstrate its utility through a case
-    study on the German legal system.
-  image: /images/thumbnails/Puender-Coupette_Network-Pluralism_Thumbnail.png
+  link: https://doi.org/hcjfx3
+  type: preprint
   tags:
   - law
-  - graphs
-  group: featured
+  - ai/ml
+  description: We propose a two-dimensional framework to assess privacy risks in clinical
+    foundation models.
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2508.15929
@@ -283,6 +285,26 @@
   tags:
   - tcs
   - graphs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1140/epjb/s10051-026-01178-3
+  title: 'The Power of Network Pluralism: Multi-Perspective Modeling of Heterogeneous
+    Legal Document Networks'
+  authors:
+  - "Titus P\xFCnder"
+  - Corinna Coupette
+  publisher: European Physical Journal B
+  date: '2026-01-01'
+  link: https://doi.org/hcjfx2
+  type: journal
+  description: We introduce Network Pluralism as a conceptual framework to leverage
+    multi-perspectivity in network science and demonstrate its utility through a case
+    study on the German legal system.
+  image: /images/thumbnails/Puender-Coupette_Network-Pluralism_Thumbnail.png
+  tags:
+  - law
+  - graphs
+  group: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.21105/joss.06930

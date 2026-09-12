@@ -2,10 +2,10 @@
 name: Jeremy Wayland
 role: phd
 affiliation: TU Munich
-group: affiliate
+group: alum
 description: Co-Supervised PhD Student
 discipline: Mathematics, Computer Science
-period: 2024–
+period: 2024–2026
 links: 
   home-page: https://jeremy-wayland.me/
   google-scholar: FucrCk8AAAAJ
