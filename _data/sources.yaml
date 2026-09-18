@@ -1,8 +1,19 @@
 # PREPRINT
 # - id: doi:
 #   type: preprint
+- id: doi:10.48550/arXiv.2609.17366
+  type: preprint
+  date: '2026-01-01'
+  title: "Lexplorer: Navigating the Complexity of Legal Document Landscapes"
+  description: "We develop, introduce, and evaluate Lexplorer, a flexible interface for exploring, navigating, and analyzing collections of legal documents."
+  tags:
+    - law
+    - hci
+    - graphs
+  image: /images/thumbnails/Fuerst-et-al_Lexplorer_Thumbnail.png
 - id: doi:10.48550/arXiv.2608.07705
   type: preprint
+  date: '2026-01-01'
   title: "Protecting Patient Privacy in Clinical Foundation Models: Technical and Legal Perspectives"
   tags:
     - law
@@ -10,6 +21,7 @@
   description: "We propose a two-dimensional framework to assess privacy risks in clinical foundation models."
 - id: doi:10.48550/arXiv.2508.15929
   title: Low-Dimensional Embeddings of High-Dimensional Data
+  date: '2025-01-01'
   type: preprint
   description: "We critically review current approaches to dimensionality reduction and discuss best practices and open challenges in the field."
   tags:
