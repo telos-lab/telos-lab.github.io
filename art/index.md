@@ -3,6 +3,8 @@ title: Art
 nav:
   order: 3
   # tooltip: Art
+redirect_from:
+  - /art/cop31
 ---
 
 # {% include icon.html icon="fa-solid fa-paintbrush fa-fw" %}Art
