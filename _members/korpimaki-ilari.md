@@ -2,7 +2,7 @@
 name: Ilari Korpimäki
 image: images/members/korpimaki-ilari.jpeg
 role: ra
-description: "CS Summer Intern (2025) and Research Assistant"
+description: "CS Summer Intern (2025), Research Assistant and Master Student"
 affiliation: Aalto U, School of Science
 links:
 #   home-page: 
