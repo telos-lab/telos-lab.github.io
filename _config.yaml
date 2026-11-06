@@ -43,6 +43,8 @@ collections:
     output: true
   vg-berlin:
     output: true
+  cop31:
+    output: true
   # generate page for each post
   # posts:
   #   output: true

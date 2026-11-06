@@ -3,8 +3,6 @@ title: Art
 nav:
   order: 3
   # tooltip: Art
-redirect_from:
-  - /art/cop31
 ---
 
 # {% include icon.html icon="fa-solid fa-paintbrush fa-fw" %}Art
@@ -14,4 +12,8 @@ Over the years, what started as a side project providing an outlet for individua
 
 _If you are interested in collaborating to create bespoke legal-data art for your organization, feel free to contact us!_ 
 
-{% include list.html data="art" component="card" filter="!hide" %}
+{% include list.html data="art" component="card" filter="title == 'The Art of Law'" %}
+
+{% include list.html data="art" component="card" filter="title == 'Legal Ecologies'" %}
+
+{% include list.html data="art" component="card" filter="title == 'Verwaltungsgericht Berlin'" %}
