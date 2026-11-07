@@ -1,6 +1,6 @@
 ---
 name: Mohamed Ben Achour
-image: images/members/ben-achour-mohamed.webp
+image: images/members/ben-achour-mohamed.jpg
 role: phd
 affiliation: Aalto U, School of Science
 links:

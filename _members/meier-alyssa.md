@@ -1,6 +1,6 @@
 ---
 name: Alyssa Meier
-image: images/members/meier-alyssa.webp
+image: images/members/meier-alyssa.jpg
 role: phd
 affiliation: Aalto U, School of Science
 aliases:

@@ -2,7 +2,7 @@
 title: On the Conservation of Nature
 subtitle: "The Birds Directive in its Judicial Habitat"
 link: cop31/birds
-image: images/art/Birds-wide.png
+image: images/art/Birds-wide.jpg
 ---
 
 # The Birds Directive in its Judicial Habitat
@@ -17,10 +17,10 @@ Global view: Birds Directive and selected judicial decisions
 Close up: Case C-23/23 connecting to the Birds Directive
 {% endcapture %}
 
-{% include figure.html image='images/art/Birds-close-1.png' caption=text %}
+{% include figure.html image='images/art/Birds-close-1.jpg' caption=text %}
 
 {% capture text %}
 Close up: Case C-251/21 with nascent cross-references
 {% endcapture %}
 
-{% include figure.html image='images/art/Birds-close-2.png' caption=text %}
+{% include figure.html image='images/art/Birds-close-2.jpg' caption=text %}

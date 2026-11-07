@@ -191,7 +191,7 @@
   type: conference
   tags:
   - ai/ml
-  image: /images/thumbnails/presto.svg
+  image: /images/thumbnails/presto.jpg
   description: We introduce Presto, a topological framework to explore and exploit
     representational variability in latent-space machine-learning models.
   plugin: sources.py
