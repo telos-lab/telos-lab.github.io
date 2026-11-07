@@ -2,10 +2,10 @@
 name: Milja von Lerber
 role: phd
 affiliation: Aalto U, School of Business
-group: affiliate
+group: alum
 description: Collaborating PhD Student
 discipline: Sociology, Management
-period: 2026–
+period: 2026
 links:
 #  home-page: -
   google-scholar: jGuOlVAAAAAJ
