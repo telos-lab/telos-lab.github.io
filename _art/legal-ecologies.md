@@ -2,7 +2,7 @@
 title: Legal Ecologies
 subtitle: Data art inspired by mycelium
 link: art/legal-ecologies
-image: images/art/Birds-wide.png
+image: images/art/Birds-wide.jpg
 hide: false
 redirect_from:
   - /art/cop31
